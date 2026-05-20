@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b4d9ad8dc99712d3","x":-269,"y":-420,"width":509,"height":597,"type":"file","file":"Notes/Rust/Переменные и начало программы.md"},
+		{"id":"9ff4078fa0ac068a","x":320,"y":-521,"width":340,"height":400,"type":"file","file":"Notes/Rust/Типы данных.md"},
+		{"id":"88c3a34d9604b1c0","x":796,"y":-200,"width":464,"height":510,"type":"file","file":"Notes/Rust/Вывод данных.md"}
+	],
+	"edges":[
+		{"id":"7c985ba322e3cb4d","fromNode":"b4d9ad8dc99712d3","fromSide":"right","toNode":"9ff4078fa0ac068a","toSide":"left"},
+		{"id":"1f29d74bc6d79bd3","fromNode":"b4d9ad8dc99712d3","fromSide":"right","toNode":"88c3a34d9604b1c0","toSide":"left"},
+		{"id":"db301c97d7049bcf","fromNode":"9ff4078fa0ac068a","fromSide":"right","toNode":"88c3a34d9604b1c0","toSide":"left"}
+	]
+}
