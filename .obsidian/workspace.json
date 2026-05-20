@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rust/Срезы строк и массивов.md",
+                "file": "Notes/Rust/Срезы строк, массивов и векторов.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Срезы строк и массивов"
+              "title": "Срезы строк, массивов и векторов"
             }
           }
         ]
@@ -178,14 +178,23 @@
               "icon": "lucide-list",
               "title": "Структура Типы данных"
             }
+          },
+          {
+            "id": "5f3bcac4787e2fcf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +211,11 @@
   },
   "active": "3d1cf59116dfe57e",
   "lastOpenFiles": [
-    "Notes/Rust/Срезы строк и массивов.md",
-    "conflict-files-obsidian-git.md",
+    "Notes/Rust/Срезы строк, массивов и векторов.md",
+    "Notes/Rust/Конструкции match и if let.md",
     "Notes/Rust/Типы данных.md",
     "Notes/Rust/Переменные и начало программы.md",
-    "Notes/Rust/Конструкции match и if let.md",
+    "conflict-files-obsidian-git.md",
     "Без названия.canvas",
     "Notes/Rust/Вывод данных.md",
     "Notes/Rust/Cargo.md",
