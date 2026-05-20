@@ -11,10 +11,14 @@
             "id": "5295062cc65d96a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rust/Типы данных.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Типы данных"
             }
           }
         ]
@@ -175,6 +179,10 @@
   },
   "active": "5295062cc65d96a4",
   "lastOpenFiles": [
+    "/Notes/Rust/Типы данных.md",
+    "/Notes/Rust",
+    "/Notes",
+    "/Notes/Rust/Срезы строк и массивов.md",
     "Без названия.canvas",
     "Templates/ежедневная заметка.md",
     "Rust.md",
