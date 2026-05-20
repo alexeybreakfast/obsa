@@ -188,27 +188,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/ежедневная заметка.md",
+                "file": "Notes/Rust/Срезы строк и массивов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ежедневная заметка"
-            }
-          },
-          {
-            "id": "dc6a1c70d07ad25d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Структура Срезы строк и массивов"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -227,7 +217,7 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "3a0500b76467ec9a",
+  "active": "4c83fc31adaef0b7",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Notes/Rust/Типы данных.md",
