@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +218,7 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "4c83fc31adaef0b7",
+  "active": "3a0500b76467ec9a",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Notes/Rust/Типы данных.md",
