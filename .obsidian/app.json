@@ -6,6 +6,6 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "tabSize": 2,
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true
 }

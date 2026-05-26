@@ -55,6 +55,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Rust/Свои методы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Свои методы"
+            }
+          },
+          {
+            "id": "4c36edec7237de50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Rust/Общие типы, методы, функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общие типы, методы, функции"
+            }
+          },
+          {
+            "id": "9e569e789b869ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Rust/Типы данных.md",
                 "mode": "preview",
                 "source": false
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,13 +280,16 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "5f3bcac4787e2fcf",
+  "active": "4c36edec7237de50",
   "lastOpenFiles": [
-    "Notes/Rust/Коллекции.md",
-    "Notes/Rust/Методы.md",
-    "Notes/Rust/Переменные и начало программы.md",
+    "Notes/Rust/Свои методы.md",
+    "Notes/Rust/Общие типы, методы, функции.md",
     "Notes/Rust/Типы данных.md",
     "Notes/Rust/Срезы строк, массивов и векторов.md",
+    "Notes/Rust/Методы.md",
+    "Без названия",
+    "Notes/Rust/Коллекции.md",
+    "Notes/Rust/Переменные и начало программы.md",
     "Notes/Rust/Конструкции match и if let.md",
     "Notes/Rust/ТЕГИ (техническоее).md",
     "Notes/Rust/Вывод данных.md",
@@ -267,7 +298,6 @@
     "conflict-files-obsidian-git.md",
     "Без названия.canvas",
     "Rust.md",
-    "Без названия",
     "Templates/Без названия.md",
     "Notes/Rust",
     "создайте ссылку.md",
