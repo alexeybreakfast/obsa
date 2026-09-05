@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/cpp/условный оператор if.md",
+                "file": "Notes/cpp/Работа со списками (сортировка, минимум, максимум, сумма).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "условный оператор if"
+              "title": "Работа со списками (сортировка, минимум, максимум, сумма)"
             }
           }
         ],
@@ -242,10 +242,11 @@
   },
   "active": "a4afef9a54b9bc7d",
   "lastOpenFiles": [
+    "Notes/cpp/условный оператор if.md",
     "Notes/cpp/Типы данных.md",
     "Notes/cpp/Вывод-вывод данных.md",
     "Notes/cpp/Циклы.md",
-    "Notes/cpp/Работа со списками.md",
+    "Notes/cpp/Работа со списками (сортировка, минимум, максимум, сумма).md",
     "Notes/cpp/объявление своих функций.md",
     "Notes/cpp/namespace.md",
     "Notes/Rust/Cargo.md",
@@ -253,7 +254,6 @@
     "Notes/cpp/конструкция switch.md",
     "Notes/cpp/Переменные и начало программы.md",
     "Notes/cpp/ссылки.md",
-    "Notes/cpp/условный оператор if.md",
     "Notes/cpp/sizeof.md",
     "Notes/cpp/Создание своих функций.md",
     "Templates/Rust.md",
