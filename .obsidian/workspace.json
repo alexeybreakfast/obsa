@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80ebdf76badd221d",
+            "id": "f8f0c532ff87a3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rust/Методы.md",
-                "mode": "preview",
+                "file": "Notes/cpp/Циклы.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методы"
+              "title": "Циклы"
             }
           },
           {
-            "id": "5f5ba65f9544a268",
+            "id": "0c0f4592cefa7d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rust/Срезы строк, массивов и векторов.md",
+                "file": "Notes/cpp/Циклы.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Срезы строк, массивов и векторов"
+              "title": "Циклы"
+            }
+          },
+          {
+            "id": "4f2a2ee32bd00ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/cpp/Типы данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Типы данных"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -209,45 +226,45 @@
       "publish:Публикация изменений": false
     }
   },
-  "active": "80ebdf76badd221d",
+  "active": "4f2a2ee32bd00ca6",
   "lastOpenFiles": [
-    "Notes/Rust/Срезы строк, массивов и векторов.md",
-    "Notes/Rust/Типы данных.md",
-    "Notes/Rust/Методы.md",
-    "Notes/Rust/Коллекции.md",
-    "Notes/Rust/Конструкции match и if let.md",
+    "Notes/cpp/объявление своих функций.md",
+    "Notes/cpp/namespace.md",
+    "Notes/cpp/Типы данных.md",
+    "Notes/cpp/Циклы.md",
     "Notes/Rust/Cargo.md",
+    "Notes/Rust/Конструкции match и if let.md",
+    "Notes/cpp/конструкция switch.md",
+    "Notes/cpp/Вывод-вывод данных.md",
+    "Notes/cpp/Переменные и начало программы.md",
+    "Notes/cpp/ссылки.md",
+    "Notes/cpp/условный оператор if.md",
+    "Notes/cpp/sizeof.md",
+    "Notes/cpp/Создание своих функций.md",
+    "Templates/Rust.md",
+    "еуые.md",
+    "Templates/ежедневная заметка.md",
     "Notes/test/Time.md",
-    "Notes/Rust/Свои модули.md",
-    "Notes/Rust/Так называемые атрибуты.md",
-    "Notes/Rust/Циклы.md",
-    "Notes/Rust/атрибут derive.md",
-    "Notes/Rust/ТЕГИ (техническоее).md",
-    "Notes/Rust/Вывод данных.md",
-    "Notes/Rust/Переменные и начало программы.md",
+    "Notes/Pasted image 20260528002829.png",
     "Без названия",
-    "Notes/Rust/Свои методы.md",
-    "Notes/Rust/Общие типы, методы, функции.md",
-    "Notes/Rust/Модули/ws tokio/Инициализация.md",
+    "Notes/Rust/Методы.md",
+    "Notes/cpp",
+    "Notes/Java/Без названия.md",
+    "Notes/Java/циклы.md",
+    "Notes/Java/Типы данных.md",
+    "Notes/Java/Точка входа.md",
+    "Notes/Java/Объявление переменных.md",
+    "Notes/Java/Вывод данных.md",
+    "Notes/Java",
+    "Notes/Rust/Типы данных.md",
+    "Notes/Rust/Переменные и начало программы.md",
     "Notes/Rust/Модули/ws tokio",
-    "Notes/Rust/Модули/Tokio web-socket.md",
-    "Модулм/Без названия.md",
     "Notes/Rust/Модули",
     "Без названия.canvas",
     "Notes/test/Time.md.tmp",
-    "Rust.md",
-    "еуые.md",
-    "Notes/тест время/Время.md",
     "Notes/тест время",
-    "Notes/тест время/Без названия.md",
-    "Images/Pasted image 20260528002829.png",
     "Notes/тест время/Время.md.tmp",
     "Notes/test",
-    "Templates/ежедневная заметка.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Без названия.md",
-    "Notes/Rust",
-    "Notes",
-    "Templates"
+    "Notes/Rust"
   ]
 }
