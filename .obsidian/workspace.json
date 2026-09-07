@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Rust/Типы данных.md",
+                "file": "Notes/cpp/sizeof.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных"
+              "title": "sizeof"
+            }
+          },
+          {
+            "id": "3fd75d5e253a9bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/cpp/Методы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -240,8 +254,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4afef9a54b9bc7d",
+  "active": "3fd75d5e253a9bb9",
   "lastOpenFiles": [
+    "Notes/cpp/sizeof.md",
+    "Notes/cpp/Методы.md",
+    "Notes/cpp/namespace.md",
+    "Notes/Rust/Типы данных.md",
     "Notes/cpp/Циклы.md",
     "Notes/cpp/ссылки.md",
     "Notes/cpp/объявление своих функций.md",
@@ -255,11 +273,9 @@
     "Notes/cpp/Типы данных.md",
     "Notes/cpp/Работа со списками (сортировка, минимум, максимум, сумма).md",
     "Notes/cpp/Вывод-вывод данных.md",
-    "Notes/cpp/namespace.md",
     "Notes/Rust/Cargo.md",
     "Notes/Rust/Конструкции match и if let.md",
     "Notes/cpp/Переменные и начало программы.md",
-    "Notes/cpp/sizeof.md",
     "Notes/cpp/Создание своих функций.md",
     "Templates/Rust.md",
     "еуые.md",
@@ -269,8 +285,6 @@
     "Без названия",
     "Notes/cpp",
     "Notes/Java/Без названия.md",
-    "Notes/Java/циклы.md",
-    "Notes/Java/Типы данных.md",
     "Notes/Java",
     "Notes/Rust/Модули/ws tokio",
     "Notes/Rust/Модули",
